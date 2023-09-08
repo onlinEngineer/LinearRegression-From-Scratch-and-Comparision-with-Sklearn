@@ -106,7 +106,7 @@ In this model, the coefficient value is 957.00838899, and the intercept value is
 
 
 
-### REFERANCES
+### REFERENCES
 1. Sanjay Lall and Stephen Boyd, Supervised Learning via Empirical Risk Minimization, EE104 Stanford University, EE104 Spring 2018
 2. Mohit Gupta, geeksforgeeks.org, ML | Linear Regression, 13 Sep 2018
 3. Deepanshi, analyticsvidhya.com, All you need to know about your first Machine Learning model – Linear Regression, May 25, 2021
